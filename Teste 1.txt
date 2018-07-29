@@ -1,1 +1,2 @@
 Estou testando o Git.
+Testando o commit direto pelo Git.
